@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Nav Tutorial</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_chat">Chat</string>
+    <string name="nav_help">Help me</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="news_fragment">News Fragment</string>
+    <string name="help_fragment">Help Fragment</string>
+    <string name="chat_fragment">Chat Fragment</string>
+    <string name="nav_news">News</string>
+    <string name="communicate_with_us">Communicate with Us</string>
+    <string name="my_account">My account</string>
+    <string name="learn">Learn</string>
+    <string name="settings">Settings</string>
+    <string name="share_app">Share App</string>
+    <string name="contact_us">Contact us</string>
+    <string name="topics">Topics</string>
+
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="navigation_tutorial">Solution Ptototype</string>
+    <string name="nav_camera">Capture</string>
+    <string name="camera_fragment">Camera Fragment</string>
+    <string name="nav_notify">Notifications</string>
+    <string name="topics_fragment">Topics Fragment</string>
+    <string name="notification_fragment">Notification Fragment</string>
+    <string name="learn_fragment">Learn Fragment</string>
+    <string name="contact_fragment">Contact Fragment</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>

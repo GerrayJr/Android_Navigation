@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/drawer_profile"
+            android:icon="@drawable/ic_person"
+            android:title="@string/my_account" />
+
+        <item
+            android:id="@+id/drawer_topics"
+            android:icon="@drawable/ic_topics"
+            android:title="@string/topics" />
+
+        <item
+            android:id="@+id/drawer_learn"
+            android:icon="@drawable/ic_learn"
+            android:title="@string/learn" />
+
+        <item
+            android:id="@+id/drawer_settings"
+            android:icon="@drawable/ic_settings"
+            android:title="@string/settings" />
+
+        <item
+            android:id="@+id/drawer_help"
+            android:icon="@drawable/ic_help"
+            android:title="Help"/>
+
+    </group>
+
+    <item android:title="@string/communicate_with_us">
+        <menu>
+            <item
+                android:id="@+id/drawer_share"
+                android:icon="@drawable/ic_share"
+                android:title="@string/share_app" />
+
+            <item
+                android:id="@+id/drawer_contact"
+                android:icon="@drawable/ic_phone"
+                android:title="@string/contact_us" />
+        </menu>
+    </item>
+
+</menu>
